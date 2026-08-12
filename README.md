@@ -2,6 +2,8 @@
 
 A minimal AI chatbot built with **Next.js**, the **Vercel AI SDK**, and **Groq** (free-tier hosted open models). Built to demonstrate how quickly a working, streaming chatbot can be stood up for internal enterprise use cases.
 
+**Live demo:** [https://ai-chatbot-sand-ten-20.vercel.app/](https://ai-chatbot-sand-ten-20.vercel.app/)
+
 ## Tech stack
 
 - **Next.js (App Router)** — frontend UI + backend API route in one project
